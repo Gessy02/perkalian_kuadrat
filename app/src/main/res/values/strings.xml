@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator Kuadrat</string>
+    <string name="intro">Aplikasi ini adalah aplikasi sederhana untuk menghitung perkalian kuadrat.</string>
+    <string name="input">Angka</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil_x">Hasil : %1$.2f</string>
+    <string name="input_invalid">Angka tidak boleh kosong.</string>
+    <string name="kuadrat_invalid">Kuadrat tidak boleh kosong.</string>
+    <string name="kuadrat">Kuadrat</string>
+</resources>
